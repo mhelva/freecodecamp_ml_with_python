@@ -1,4 +1,4 @@
-# Machine Learning Projects
+#FreeCodeCamp Machine Learning Projects
 
 This repository contains implementations of various machine learning models for different applications. Each project is self-contained with its own dataset, preprocessing steps, and model implementation.
 
